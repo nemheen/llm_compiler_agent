@@ -1,1 +1,3 @@
-# llm_compiler_agent
+## llm_compiler_agent
+Exploring LLMCompiler Agent workflow from their source code, <a href="https://github.com/langchain-ai/langgraph/blob/main/examples/llm-compiler/LLMCompiler.ipynb"></a> and <a href="https://github.com/run-llama/llama-hub/blob/main/llama_hub/llama_packs/agents/llm_compiler/llm_compiler.ipynb"></a>
+in framework of LangGraph and LLamaIndex, consecutively, which are both inspired from the original paper called <a href="https://arxiv.org/abs/2312.04511">An LLM Compiler for Parallel Function Calling</a> and their repo <a href="https://github.com/SqueezeAILab/LLMCompiler?tab=readme-ov-file"></a>.
